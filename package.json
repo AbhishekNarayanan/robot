@@ -1,0 +1,26 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "Alexa server application (for testing purposes only)",
+  "main": "server.js",
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-app-server": "^2.3.1",
+    "node-gcm": "^0.14.4"
+  },
+  "engines": {
+    "node": "6.9.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekNarayanan/alexa-robot-control.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbhishekNarayanan/alexa-robot-control/issues"
+  },
+  "homepage": "https://github.com/AbhishekNarayanan/alexa-robot-control#readme"
+}
