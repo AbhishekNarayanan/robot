@@ -8,7 +8,7 @@
   "alexa": {
     "applicationId": null
   },
-  "success_url":"\apps\robot",
+  "success_url":"/apps/robot",
   "dependencies": {
     "alexa-app": "^2.4.0",
     "node-gcm": "^0.14.4"
